@@ -1,0 +1,29 @@
+product_id,SKU,product_name,Product_price,Product_category
+210616,Chkn1,1 Whole Chicken,23.99,Chicken_Main 
+116615,Chkn.5,1 Piece Chicken ,10.99,Chicken_Main 
+366603,Chkn2,2 Whole Chickents,40.79,Chicken_Main 
+271668,sdfrsSM,Side Dish Fries,3.59,Side 
+180082,SidMashedReg,Side Dish Mashed Potatoes,3.59,Side 
+660015,SideSalad,Side dish Salad,15.45,Side 
+370455,Chkn1/2,1/2 Chicken,13.13,Chicken_Main 
+541319,Sdbnsreg,Side Dish Beand,3.59,Side 
+316582,SideYReg,Side Dish Yuca,3.59,Side 
+849396,SdplntsSM,Side Dish Plantains,3.59,Side 
+791681,Sod1,Soda ,1.8,Soda
+886801,Wtr1,Water ,1.5,Soda
+734877,ChicSub12in,Chicken Sub 12in,12.99,Chicken_Main 
+586047,ChicSub6in,Chicken Sub 6in ,8.99,Chicken_Main 
+183436,Alfj1,Alfajor,3.45,Desert
+756706,Chi1,Chicha,3.6,Soda
+584662,Tres L,Tres Leches ,4.99,Desert
+766141,ArrozL,Arroz con leche,4.99,Desert
+175854,Combo1,1 chichen and 2 sides,45.59,Combo 
+648793,Combo2,2 chickens and 4 sides ,65.49,Combo 
+408492,Combo3,1 chicken and 4 sodas ,40.54,Combo 
+839501,Combo4,1/2 chicken salad and 2 sodas ,17.99,Combo 
+680423,Combo5,1/2 chicken with fries ,15.99,Combo 
+21236,Sdbnslg,Side Dish Beans Large,5.79,Side 
+104139,SideYuLg,Side Dish Yuca Large,5.79,Side 
+210347,SdplntsLG,Side Dish Plantains Large,5.79,Side 
+447353,sdfrsLG,Side Dish Fries Large,5.79,Side 
+348106,SidMashedlg,Side Dish Mashed Potatoes Large,5.79,Side 

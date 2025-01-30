@@ -1,0 +1,26 @@
+ing_id,ing_name,ing_weight ,ing_meas,Price
+ING001,Chicken,1000,grams,3
+ING002,Salt,500,grams,0.3
+ING003,Cumin,100,grams,1.5
+ING004,Oil,1000,ml,2
+ING005,Aji Amarillo,100,grams,2
+ING006,Vinegar,1000,ml,1
+ING007,Lettuce,300,grams,1
+ING008,Tomato,400,grams,0.6
+ING009,Bread,500,grams,1
+ING010,Pepper,50,grams,1.5
+ING011,Potatoes,1000,grams,1
+ING012,Beans,500,grams,1.5
+ING013,Plantains,600,grams,1
+ING014,Onions,300,grams,0.5
+ING015,Purple corn,200,grams,1.5
+ING016,Cinnamon,50,grams,1
+ING017,Lemons,500,grams,1
+ING018,Alfajor,200,grams,2
+ING019,Tres Leches,600,grams,3
+ING020,Arroz con Leche,600,grams,2.5
+ING021,Garlic,100,grams,0.5
+ING022,milk,1000,ml,2.5
+ING023,yuka,1000,grams,1.25
+ING024,Soda,1,can,0.8
+ING025,Water,1,can,0.5
